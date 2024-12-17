@@ -1,9 +1,8 @@
-<h1 align="center">Olá 👋, Sou o Marcus</h1>
-<h3 align="center">Apaixonado pela área de dados e o valor que conseguimos gerar com essa informação</h3>
+<h1 align="center">Hi 👋, I'm Marcus</h1>
+<h3 align="center">Senior Data Engineer</h3>
 
-- 🌱 Sou engenheiro de dados e trabalho com Cloud, Airflow, Docker, Python, dentre outras ferramentas
+- 🌱 I'm a data Engineer and work with Cloud, Airflow, Docker, Python, among other technologies
 
-- 📫 Você me acha atraves do e-mail **marcus.vicentini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
